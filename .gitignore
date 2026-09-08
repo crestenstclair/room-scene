@@ -1,0 +1,14 @@
+# Large scene binaries are distributed through GitHub Releases.
+*.blend
+*.blend1
+*.blend2
+*.blend@
+*.mp4
+*.zip
+artifacts/
+renders/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log

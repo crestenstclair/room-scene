@@ -1,0 +1,54 @@
+{
+  "blender_version": "5.2.0 LTS",
+  "scene": "room-scene.blend",
+  "source_filename": "teen_room_psx_shinrawave_vibe.blend",
+  "source_file_modified": false,
+  "scene_state": {
+    "frame": 320,
+    "camera": "Vintage_TV_Camera",
+    "camera_matrix": [
+      [
+        0.946807861328125,
+        -0.08484886586666107,
+        0.31041115522384644,
+        0.6968073844909668
+      ],
+      [
+        0.3217965066432953,
+        0.24607688188552856,
+        -0.914271891117096,
+        -3.103771448135376
+      ],
+      [
+        0.0011899062665179372,
+        0.965529203414917,
+        0.26029160618782043,
+        1.7972180843353271
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "object_count": 906,
+    "material_count": 234,
+    "render_resolution": [
+      1200,
+      900,
+      100
+    ],
+    "fps": 60
+  },
+  "packed_still_images": 185,
+  "newly_packed_images": 40,
+  "external_media": [
+    {
+      "name": "TV_Program_Movie",
+      "path": "media/tv-program.mp4",
+      "bytes": 1031764084
+    }
+  ],
+  "blend_bytes": 244458327
+}

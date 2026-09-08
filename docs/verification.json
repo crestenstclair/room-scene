@@ -1,0 +1,28 @@
+{
+  "blender": "5.2.0 LTS",
+  "scene": "room-scene.blend",
+  "frame": 320,
+  "resolution": [
+    1200,
+    900
+  ],
+  "packed_texture_count": 185,
+  "external_references": [
+    {
+      "name": "TV_Program_Movie",
+      "path": "//media\\tv-program.mp4",
+      "exists": true
+    },
+    {
+      "name": "TV_Program_Sound",
+      "path": "//media\\tv-program.mp4",
+      "exists": true
+    }
+  ],
+  "missing_dependencies": [],
+  "references_outside_package": [],
+  "checked_drivers": 166,
+  "invalid_drivers": [],
+  "preview": "preview/current-scene.png",
+  "render_succeeded": true
+}
